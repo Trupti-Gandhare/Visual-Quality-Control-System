@@ -3,3 +3,17 @@ data/raw/good/*.jpg
 data/raw/defective/*.jpg
 models/trained/
 tf_env/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.pt
+*.csv
+*.zip
+*.exe
+*.dll
+*.jpg
+*.png
+*.mp4
